@@ -14,8 +14,6 @@
     width: 1600px;
     height: 808px;
     background-color: azure;
-
-
 }
 
 .banner-title {
@@ -60,18 +58,21 @@ main{
 /* My failures seaction */
 .my{
    display: flex;
-   gap: 200px;
+   gap: 100px;
 
 
 }
 .seacton{
     margin-top: 400px;
     margin-left: 100px;
-  
 }
-.fav{
-
+.uper{
+    margin-top: 20px;
 }
-.to-my{
-
+.fond{
+    margin-top: 15px;
+}
+i{
+    color: crimson;
+    margin-right: 10px;
 }
