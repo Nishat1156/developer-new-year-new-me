@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* banner styles */
+.banner {
+    align-items: center;
+    background-image: url('/images/banner/banner2.png');
+    background-size: contain;
+    text-align-last: right;
+    background-repeat: no-repeat;
+    padding: 100px 150px 40px 150px;
+    width: 1600px;
+    height: 808px;
+    background-color: azure;
+
+
+}
+
+.banner-title {
+    font-weight: 700;
+    font-size: 65px;
+    margin-bottom: 26px;
+
+
+}
+
+.banner-sub-title {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin: 0;
+    margin-bottom: 29px;
+}
+
+
+.btn-primary {
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+}
+.header .btn-primary{
+    padding: 18px 35px 19px 36px;
+}
+.header{
+    background: #444343;
+
+}
+/* main saction */
+main{
+    max-width: 1140px;
+    margin-right: 0 auto;
+}
+/* My failures seaction */
+.my{
+   display: flex;
+   gap: 200px;
+
+
+}
+.seacton{
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-bottom: 400px;
+    margin-right: 500px;
+}
+.fav{
+
+}
+.to-my{
+
+}
