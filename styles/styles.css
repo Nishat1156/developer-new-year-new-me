@@ -59,22 +59,23 @@
 /* My failures seaction */
 .my {
     display: flex;
-    gap: 200px;
+    gap: 100px;
+    margin: 0 100px;
 
 }
 
-.seacton {
+ .seacton {
     margin-top: 400px;
     margin-left: 100px;
 }
-
-.uper {
-    margin-top: 20px;
+  
+.fav{
+    padding-bottom: 20px;
 }
 
 .fond {
-    margin-top: 15px;
-}
+    padding-top: 15px;
+} 
 
 i {
     color: crimson;
